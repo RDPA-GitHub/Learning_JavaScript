@@ -1,4 +1,4 @@
-// JavaScript - Example One (Use var)
+// JavaScript - Example 1 (Use var)
 
 var variable = 5;
 // Scope
