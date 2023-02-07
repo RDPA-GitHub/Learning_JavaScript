@@ -1,4 +1,4 @@
-// JavaScript - Example 5 (Use Number)
+// JavaScript - Example 6 (Use Number)
 
 // Bad 
 const fruits = 3;
